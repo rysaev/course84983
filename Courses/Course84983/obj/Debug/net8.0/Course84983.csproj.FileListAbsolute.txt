@@ -1,0 +1,15 @@
+C:\github\course84983\Courses\Course84983\bin\Debug\net8.0\Course84983.exe
+C:\github\course84983\Courses\Course84983\bin\Debug\net8.0\Course84983.deps.json
+C:\github\course84983\Courses\Course84983\bin\Debug\net8.0\Course84983.runtimeconfig.json
+C:\github\course84983\Courses\Course84983\bin\Debug\net8.0\Course84983.dll
+C:\github\course84983\Courses\Course84983\bin\Debug\net8.0\Course84983.pdb
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.AssemblyInfoInputs.cache
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.AssemblyInfo.cs
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.csproj.CoreCompileInputs.cache
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.sourcelink.json
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.dll
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\refint\Course84983.dll
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.pdb
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\Course84983.genruntimeconfig.cache
+C:\github\course84983\Courses\Course84983\obj\Debug\net8.0\ref\Course84983.dll
